@@ -1,2 +1,2 @@
 # smart-cottage
-Arduino project smart cottage (smart home:) ).
+Arduino project smart cottage (smart home :) )
